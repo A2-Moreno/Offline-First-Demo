@@ -1,0 +1,9 @@
+{
+    "name": "rn-uninorte-expo-template",
+    "version": "1.0.0",
+    "description": "Template base para curso de React Native con Expo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/augustosalazar/rn-uninorte-expo-template.git"
+    }
+}
