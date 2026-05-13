@@ -17,3 +17,7 @@ Se implementó una base de datos SQLite local para garantizar el acceso a los da
    ```bash
    npx expo start
    ```
+
+ ## Material de apoyo
+
+ Diapositivas: https://canva.link/83bzi8zrkp93t39
